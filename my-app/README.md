@@ -1,3 +1,8 @@
+# React-REST-API-Aplicacion-de-Clima
+ Aplicación que nos permite consultar el clima en tiempo Real usando la api de openweathermap.org usando fetech y programada
+ con React.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
